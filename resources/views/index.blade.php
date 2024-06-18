@@ -123,10 +123,10 @@
             <!-- Masthead Avatar Image-->
             <img class="masthead-avatar mb-5" src="img/logo.png" alt="..." />
             <!-- Masthead Heading-->
-            <h1 class="masthead-heading text-uppercase mb-0">Klinik {{ env('APP_NAME') }}</h1>
+            <h1 class="masthead-heading text-uppercase mb-0">terapy {{ env('APP_NAME') }}</h1>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
-                <div class="divider-custom-line"></div>
+                <div class="divider-custom-line"></div> 
                 <div class="divider-custom-icon"><i class="fas fa-hospital"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
@@ -281,7 +281,7 @@
     </footer>
     <!--------------------------------------------------------copyright----------------------------------------------------------------------------------->
     <div class="copyright py-4 text-center text-white">
-        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2024</small></div>
+        <div class="container"><small>Powered by &copy; bkc {{ env('APP_NAME') }} 2024</small></div>
     </div>
     <!-- Portfolio Modals-->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal2"
@@ -296,7 +296,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Dokter nya nii boss!!
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">dokter
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
