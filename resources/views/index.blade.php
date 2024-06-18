@@ -155,7 +155,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="img/dalam2.jpg" alt="..." />
+                        <img class="img-fluid" src="https://st3.depositphotos.com/1177973/13224/i/450/depositphotos_132246354-stock-photo-young-male-doctor-with-tablet.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 2-->
@@ -166,7 +166,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="img/dalam1.jpg" alt="..." />
+                        <img class="img-fluid" src="https://www.audydental.com/wp-content/uploads/2023/05/Klinik-Gigi-Spesialis-Terdekat-di-Jakarta-Selatan.jpeg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 3-->
@@ -177,7 +177,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="img/luar1.jpg" alt="..." />
+                        <img class="img-fluid" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
                     </div>
                 </div>
 
@@ -332,7 +332,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Ruang Tunggu 1
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Ruang Tunggu Kami
                                 </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
@@ -341,7 +341,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="img/dalam1.jpg" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://i0.wp.com/pinterpoin.com/wp-content/uploads/2019/03/IMG_2006.jpg?ssl=1" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -368,7 +368,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Halaman Parkiran
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Halaman Klinik
                                 </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
@@ -377,7 +377,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="img/luar1.jpg" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
