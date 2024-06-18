@@ -268,12 +268,16 @@
                             class="fab fa-fw fa-instagram"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://smkwikrama1garut.sch.id/"><i
                             class="fab fa-fw fa-google"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://www.youtube.com/@smkwikrama1garut327/"><i
+                            class="fab fa-fw fa-youtube"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/smkwikrama1garut/"><i
+                            class="fab fa-fw fa-facebook"></i></a>
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">
                     <h4 class="text-uppercase mb-4">Tentang Klinik</h4>
                     <p class="lead mb-0">
-                        Klinik {{ env('APP_NAME') }} dibangun sejak tahun 2024 yang berada di SMK Wikrama 1 Garut
+                        Terapy {{ env('APP_NAME') }} dibangun sejak tahun 2024 yang berada di SMK Wikrama 1 Garut
                     </p>
                 </div>
             </div>
