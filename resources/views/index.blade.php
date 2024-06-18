@@ -1,10 +1,10 @@
 <?php
     $klinikkk= "Antah";
-    $mappp= "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2552.7933967249073!2d117.22912786566681!3d-0.8342596379442541!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcd748a34b972a55b!2sKlinik%20Maju%20Sejahtera!5e1!3m2!1sid!2sid!4v1664207204197!5m2!1sid!2sid";
+    $mappp= "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6036005635083!2d107.8926237!3d-7.1717368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68b0c3cbcb1f29%3A0xc96607822a7646b0!2sSMK%20Wikrama%201%20Garut!5e0!3m2!1sid!2sid!4v1718696323018!5m2!1sid!2sid";
     
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 
 <head>
@@ -131,7 +131,7 @@
                 <div class="divider-custom-line"></div>
             </div>
             <!-- Masthead Subheading-->
-            <p class="masthead-subheading font-weight-light mb-0">Muara Jawa</p>
+            <p class="masthead-subheading font-weight-light mb-0">SMK Wikrama 1 Garut</p>
         </div>
     </header>
     <!--------------------------------------------------------Bagian Isi Konten----------------------------------------------------------------------------------->
@@ -155,7 +155,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="img/dalam2.jpg" alt="..." />
+                        <img class="img-fluid" src="https://st3.depositphotos.com/1177973/13224/i/450/depositphotos_132246354-stock-photo-young-male-doctor-with-tablet.jpg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 2-->
@@ -166,7 +166,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="img/dalam1.jpg" alt="..." />
+                        <img class="img-fluid" src="https://www.audydental.com/wp-content/uploads/2023/05/Klinik-Gigi-Spesialis-Terdekat-di-Jakarta-Selatan.jpeg" alt="..." />
                     </div>
                 </div>
                 <!-- Portfolio Item 3-->
@@ -177,7 +177,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="img/luar1.jpg" alt="..." />
+                        <img class="img-fluid" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
                     </div>
                 </div>
 
@@ -208,7 +208,7 @@
                 </div>
                 <div class="col-lg-4 me-auto">
                     <p class="lead">Anda bisa mendaftar secara online tanpa perlu mengantri atau
-                        langsung datang keKlinik <a class="btn btn-outline-light" href="/antrian-pasien">
+                        langsung datang ke Klinik Konsultasi <a class="btn btn-outline-light" href="/antrian-pasien">
                             <i class="fas fa-users me-2"></i>
                             Cek Antrian disini
                         </a></p>
@@ -256,28 +256,24 @@
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Lokasi</h4>
                     <p class="lead mb-0">
-                        Jl. Moh. Hatta Handil 7
+                        Jalan Otto Iskandardinata kampung tanjung, RT.003/RW.013, Pasawahan, 
                         <br />
-                        Kecamatan MuaraJawa, Kutai Kartanegara
+                        Kecamatan. Tarogong Kaler, Kabupaten Garut, Jawa Barat 44151
                     </p>
                 </div>
                 <!-- Footer Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Media Social</h4>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
-                            class="fab fa-fw fa-facebook-f"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
-                            class="fab fa-fw fa-twitter"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
-                            class="fab fa-fw fa-linkedin-in"></i></a>
-                    <a class="btn btn-outline-light btn-social mx-1" href="#!"><i
-                            class="fab fa-fw fa-dribbble"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/smkwikrama1garut/"><i
+                            class="fab fa-fw fa-instagram"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://smkwikrama1garut.sch.id/"><i
+                            class="fab fa-fw fa-google"></i></a>
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">
                     <h4 class="text-uppercase mb-4">Tentang Klinik</h4>
                     <p class="lead mb-0">
-                        Klinik {{ env('APP_NAME') }} dibangun sejak tahun 2002 yang berada di kecamatan MuaraJawa, Handil Kutai Kartanegara
+                        Klinik {{ env('APP_NAME') }} dibangun sejak tahun 2024 yang berada di SMK Wikrama 1 Garut
                     </p>
                 </div>
             </div>
@@ -285,10 +281,44 @@
     </footer>
     <!--------------------------------------------------------copyright----------------------------------------------------------------------------------->
     <div class="copyright py-4 text-center text-white">
-        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2022</small></div>
+        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2024</small></div>
     </div>
     <!-- Portfolio Modals-->
-
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal2"
+    aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header border-0">
+                <button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body text-center pb-5">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <!-- Portfolio Modal - Title-->
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Dokter nya nii boss!!
+                            </h2>
+                            <!-- Icon Divider-->
+                            <div class="divider-custom">
+                                <div class="divider-custom-line"></div>
+                                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                <div class="divider-custom-line"></div>
+                            </div>
+                            <!-- Portfolio Modal - Image-->
+                            <img class="img-fluid rounded mb-5" src="img/dalam2.jpg" alt="..." />
+                            <!-- Portfolio Modal - Text-->
+                            <p class="mb-4">======</p>
+                            <button class="btn btn-primary" data-bs-dismiss="modal">
+                                <i class="fas fa-xmark fa-fw"></i>
+                                Close Window
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
     <!-- Portfolio Modal 2-->
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2"
         aria-hidden="true">
@@ -302,7 +332,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Ruang Tunggu 1
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Ruang Tunggu Kami
                                 </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
@@ -311,7 +341,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="img/dalam1.jpg" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://i0.wp.com/pinterpoin.com/wp-content/uploads/2019/03/IMG_2006.jpg?ssl=1" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -338,7 +368,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <!-- Portfolio Modal - Title-->
-                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Halaman Parkiran
+                                <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Halaman Klinik
                                 </h2>
                                 <!-- Icon Divider-->
                                 <div class="divider-custom">
@@ -347,7 +377,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="img/luar1.jpg" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
