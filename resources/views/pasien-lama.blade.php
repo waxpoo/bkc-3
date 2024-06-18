@@ -76,7 +76,7 @@
 
         <h1>Pasien Lama</h1>
         <h4>atau</h4>
-        <h4>yang sudah pernah berobat sebelumnya</h4>
+        <h4>yang sudah pernah terapy sebelumnya</h4>
 
         <!-- Icon Divider-->
         <div class="divider-custom divider-light">
@@ -140,7 +140,7 @@
                         <p class="h3" style="color:RED;">Tidak Ditemukan</p>
                         <p class="p" style="color:rgb(129, 129, 129); font-style: italic;">"coba ingat
                             kembali,
-                            apakah anda sudah pernah berobat diklinik {{ env('APP_NAME') }} sebelumnya"</p>
+                            apakah anda sudah pernah terapy di SMK WIKRAMA 1 GARUT {{ env('APP_NAME') }} sebelumnya"</p>
                     </div>
                 </div>
             </div>
@@ -155,9 +155,9 @@
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Lokasi</h4>
                     <p class="lead mb-0">
-                        Jl. Moh. Hatta Handil 7
+                        Jalan Otto Iskandardinata kampung tanjung
                         <br />
-                        Kecamatan MuaraJawa, Kutai Kartanegara
+                         Kec. Tarogong Kaler, Kabupaten Garut
                     </p>
                 </div>
                 <!-- Footer Social Icons-->
@@ -174,9 +174,9 @@
                 </div>
                 <!-- Footer About Text-->
                 <div class="col-lg-4">
-                    <h4 class="text-uppercase mb-4">Tentang Klinik</h4>
+                    <h4 class="text-uppercase mb-4">Tentang terapy</h4>
                     <p class="lead mb-0">
-                        Klinik {{ env('APP_NAME') }} dibangun sejak tahun 2002 yang berada di kecamatan MuaraJawa, Handil Kutai Kartanegara
+                        Klinik {{ env('APP_NAME') }} dibangun sejak tahun 2024 yang berada di, Kec. Tarogong Kaler, Kabupaten Garut
                     </p>
                 </div>
             </div>
@@ -184,7 +184,7 @@
     </footer>
     <!--------------------------------------------------------copyright----------------------------------------------------------------------------------->
     <div class="copyright py-4 text-center text-white">
-        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2022</small></div>
+        <div class="container"><small>Powered by &copy; terapy {{ env('APP_NAME') }} 2024</small></div>
     </div>
 
 
@@ -271,6 +271,7 @@
                                             <option value="">pilih layanan...</option>
                                             <option value="Umum">Umum</option>
                                             <option value="Asuransi">Asuransi</option>
+                                            <option value="bpjs">bpjs</option>
                                         </select>
                                     </div>
                                 </div>
@@ -327,7 +328,7 @@
                     <div class="modal-header">
                         <h5 class="modal-title" id="staticBackdropLabel">
                             <img src="{{ asset('img/logo.png') }}" style=”float:left;
-                                width="55";height="55"” />Klinik {{ env('APP_NAME') }}
+                                width="55";height="55"” />terapy {{ env('APP_NAME') }}
                         </h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal"
                             aria-label="Close"></button>
