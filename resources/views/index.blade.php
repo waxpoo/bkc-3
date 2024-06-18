@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Klinik {{ env('APP_NAME') }}</title>
+    <title>Terapy {{ env('APP_NAME') }}</title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Font Awesome icons (free version)-->
@@ -74,7 +74,7 @@
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
         <div class="container">
             <a class="navbar-brand" href="#page-top"><img src="{{ asset('img/logo.png') }}" style=”float:left;
-                    width="55";height="55"” />KLINIK</a>
+                    width="55";height="55"” />WIKRAMA 1 GARUT </a>
             <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button"
                 data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -123,10 +123,10 @@
             <!-- Masthead Avatar Image-->
             <img class="masthead-avatar mb-5" src="img/logo.png" alt="..." />
             <!-- Masthead Heading-->
-            <h1 class="masthead-heading text-uppercase mb-0">Klinik {{ env('APP_NAME') }}</h1>
+            <h1 class="masthead-heading text-uppercase mb-0">terapy {{ env('APP_NAME') }}</h1>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
-                <div class="divider-custom-line"></div>
+                <div class="divider-custom-line"></div> 
                 <div class="divider-custom-icon"><i class="fas fa-hospital"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
@@ -177,7 +177,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
+                        <img class="img-fluid" src="https://asset.kompas.com/crops/mOKFrYHlSTM6SEt4aD9PIXZnJE0=/0x5:593x400/750x500/data/photo/2020/03/16/5e6ee88f78835.jpg" alt="..." />
                     </div>
                 </div>
 
@@ -281,7 +281,7 @@
     </footer>
     <!--------------------------------------------------------copyright----------------------------------------------------------------------------------->
     <div class="copyright py-4 text-center text-white">
-        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2024</small></div>
+        <div class="container"><small>Powered by &copy; bkc {{ env('APP_NAME') }} 2024</small></div>
     </div>
     <!-- Portfolio Modals-->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal2"
@@ -296,7 +296,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Dokter nya nii boss!!
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">dokter
                             </h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
@@ -305,9 +305,9 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="img/dalam2.jpg" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="https://st3.depositphotos.com/1177973/13224/i/450/depositphotos_132246354-stock-photo-young-male-doctor-with-tablet.jpg" alt="..." />
                             <!-- Portfolio Modal - Text-->
-                            <p class="mb-4">======</p>
+                            <p class="mb-4">IMAM UN SORRY</p>
                             <button class="btn btn-primary" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Close Window
@@ -341,7 +341,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="https://i0.wp.com/pinterpoin.com/wp-content/uploads/2019/03/IMG_2006.jpg?ssl=1" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://www.audydental.com/wp-content/uploads/2023/05/Klinik-Gigi-Spesialis-Terdekat-di-Jakarta-Selatan.jpeg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -377,7 +377,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://asset.kompas.com/crops/mOKFrYHlSTM6SEt4aD9PIXZnJE0=/0x5:593x400/750x500/data/photo/2020/03/16/5e6ee88f78835.jpg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
