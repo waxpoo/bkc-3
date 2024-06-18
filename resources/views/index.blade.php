@@ -208,7 +208,7 @@
                 </div>
                 <div class="col-lg-4 me-auto">
                     <p class="lead">Anda bisa mendaftar secara online tanpa perlu mengantri atau
-                        langsung datang keKlinik <a class="btn btn-outline-light" href="/antrian-pasien">
+                        langsung datang ke Klinik Konsultasi <a class="btn btn-outline-light" href="/antrian-pasien">
                             <i class="fas fa-users me-2"></i>
                             Cek Antrian disini
                         </a></p>
