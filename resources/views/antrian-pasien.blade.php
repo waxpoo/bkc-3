@@ -110,7 +110,7 @@
 
     <!--------------------------------------------------------copyright----------------------------------------------------------------------------------->
     <div class="copyright py-4 text-center text-white">
-        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2022</small></div>
+        <div class="container"><small>Powered by &copy; Klinik {{ env('APP_NAME') }} 2024</small></div>
     </div>
     @push('scripts')
 

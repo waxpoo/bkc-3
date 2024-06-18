@@ -61,7 +61,7 @@
                     <div class="modal-header">
                         <h5 class="modal-title" id="staticBackdropLabel">
                             <img src="{{ asset('img/logo.png') }}" style=”float:left;
-                                width="55";height="55"” />Klinik Maju Sejahtera
+                                width="55";height="55"” />Klinik Konsultasi
                         </h5>
 
                     </div>
