@@ -162,6 +162,7 @@
                         <option value="">pilih layanan...</option>
                         <option value="Umum">Umum</option>
                         <option value="Asuransi">Asuransi</option>
+                         <option value="kjp">kjp</option>
                     </select>
                 </div>
             </div>
