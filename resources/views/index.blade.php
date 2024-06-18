@@ -177,7 +177,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
+                        <img class="img-fluid" src="https://asset.kompas.com/crops/mOKFrYHlSTM6SEt4aD9PIXZnJE0=/0x5:593x400/750x500/data/photo/2020/03/16/5e6ee88f78835.jpg" alt="..." />
                     </div>
                 </div>
 
@@ -305,7 +305,7 @@
                                 <div class="divider-custom-line"></div>
                             </div>
                             <!-- Portfolio Modal - Image-->
-                            <img class="img-fluid rounded mb-5" src="img/dalam2.jpg" alt="..." />
+                            <img class="img-fluid rounded mb-5" src="https://st3.depositphotos.com/1177973/13224/i/450/depositphotos_132246354-stock-photo-young-male-doctor-with-tablet.jpg" alt="..." />
                             <!-- Portfolio Modal - Text-->
                             <p class="mb-4">======</p>
                             <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -341,7 +341,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="https://i0.wp.com/pinterpoin.com/wp-content/uploads/2019/03/IMG_2006.jpg?ssl=1" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://www.audydental.com/wp-content/uploads/2023/05/Klinik-Gigi-Spesialis-Terdekat-di-Jakarta-Selatan.jpeg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
@@ -377,7 +377,7 @@
                                     <div class="divider-custom-line"></div>
                                 </div>
                                 <!-- Portfolio Modal - Image-->
-                                <img class="img-fluid rounded mb-5" src="https://kabar-satu.com/wp-content/uploads/2019/11/images-5.jpeg" alt="..." />
+                                <img class="img-fluid rounded mb-5" src="https://asset.kompas.com/crops/mOKFrYHlSTM6SEt4aD9PIXZnJE0=/0x5:593x400/750x500/data/photo/2020/03/16/5e6ee88f78835.jpg" alt="..." />
                                 <!-- Portfolio Modal - Text-->
                                 <p class="mb-4">======</p>
                                 <button class="btn btn-primary" data-bs-dismiss="modal">
