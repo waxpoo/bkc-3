@@ -74,7 +74,7 @@
     <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
         <div class="container">
             <a class="navbar-brand" href="#page-top"><img src="{{ asset('img/logo.png') }}" style=”float:left;
-                    width="55";height="55"” />KLINIK</a>
+                    width="55";height="55"” />WIKRAMA 1 GARUT </a>
             <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button"
                 data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
                 aria-expanded="false" aria-label="Toggle navigation">
@@ -307,7 +307,7 @@
                             <!-- Portfolio Modal - Image-->
                             <img class="img-fluid rounded mb-5" src="https://st3.depositphotos.com/1177973/13224/i/450/depositphotos_132246354-stock-photo-young-male-doctor-with-tablet.jpg" alt="..." />
                             <!-- Portfolio Modal - Text-->
-                            <p class="mb-4">======</p>
+                            <p class="mb-4">IMAM UN SORRY</p>
                             <button class="btn btn-primary" data-bs-dismiss="modal">
                                 <i class="fas fa-xmark fa-fw"></i>
                                 Close Window
