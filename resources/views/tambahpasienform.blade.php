@@ -163,6 +163,7 @@
                         <option value="Umum">Umum</option>
                         <option value="Asuransi">Asuransi</option>
                          <option value="kjp">kjp</option>
+                           <option value="kredit">kredit</option>
                     </select>
                 </div>
             </div>
